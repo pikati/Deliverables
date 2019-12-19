@@ -1,0 +1,18 @@
+.select li{
+  float: left;
+  list-style: none;
+  margin: 30px;
+}
+
+.select-end{
+  clear: both;
+}
+
+.ctg{
+  white-space:nowrap;
+  overflow-x:auto;
+  overflow-y:hidden;
+  text-align:center;
+  height:36px;
+  font-size:0;
+}

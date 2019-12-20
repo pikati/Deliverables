@@ -1,18 +1,29 @@
-.select li{
+.select li {
   float: left;
   list-style: none;
   margin: 30px;
 }
 
-.select-end{
+.select-end {
   clear: both;
 }
 
-.ctg{
-  white-space:nowrap;
-  overflow-x:auto;
-  overflow-y:hidden;
-  text-align:center;
-  height:36px;
-  font-size:0;
+.ctg {
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  text-align: center;
+  height: 36px;
+  font-size: 0;
+}
+
+.view li {
+  float: left;
+  list-style: none;
+  margin: 160px;
+}
+
+.image{
+  float: left;
+  padding-right: 20px;
 }

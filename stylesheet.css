@@ -20,10 +20,18 @@
 .view li {
   float: left;
   list-style: none;
-  margin: 160px;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-bottom: 50px;
 }
 
-.image{
+.image {
   float: left;
   padding-right: 20px;
+}
+
+.discription {
+  width: 560px;
+  word-wrap: break-word;
 }
